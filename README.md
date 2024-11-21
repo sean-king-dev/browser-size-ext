@@ -2,6 +2,9 @@
 
 
 ## Installation
+
+- navigate to https://github.com/sean-king-dev/browser-size-ext and download zip
+
 - Open chrome://extensions/  in url bar.
 
 - Now click on the Load unpacked button. It will open a popup screen asking you to upload your extensions folder containing all the files we have discussed. Upload them.
