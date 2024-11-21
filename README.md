@@ -3,7 +3,7 @@
 
 ## Installation
 
-- navigate to https://github.com/sean-king-dev/browser-size-ext and download zip
+- Navigate to https://github.com/sean-king-dev/browser-size-ext and download zip
 
 - Open chrome://extensions/  in url bar.
 
